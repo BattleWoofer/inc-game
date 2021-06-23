@@ -12,7 +12,7 @@
 <script src="index.html"></script>
 
 
-document.getElementById("click").onclick = function(){
+document.querySelector("#click").onclick = function(){
     player.strings = player.strings.plus(1);
     alert(player.strings)
 }
