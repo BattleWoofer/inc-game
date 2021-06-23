@@ -9,7 +9,7 @@
     var element = document.getElementById("stringAmount");
 }*/
 
-document.getElementById("myButton").onclick = function(){
+document.getElementById("click").onclick = function(){
     player.strings = player.strings.plus(1);
     alert(player.strings)
 }
