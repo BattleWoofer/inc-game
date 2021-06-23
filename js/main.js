@@ -12,3 +12,8 @@
 function fun(){
 
 }*/
+
+document.getElementById("click").onclick = function(){
+    player.strings = player.strings + 1;
+    alert(player.strings)
+}
