@@ -13,7 +13,7 @@ function fun(){
 
 }*/
 
-document.getElementById('mybutton').onclick = function(){
+document.getElementById("mybutton").onclick = function(){
     player.strings = player.strings + 1;
     alert(player.strings)
 }
