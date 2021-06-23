@@ -8,11 +8,7 @@
 /*function updateString{
     var element = document.getElementById("stringAmount");
 }*/
+/*
+function fun(){
 
-<script src="index.html"></script>
-
-
-document.querySelector("#click").onclick = function(){
-    player.strings = player.strings.plus(1);
-    alert(player.strings)
-}
+}*/
